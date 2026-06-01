@@ -1,0 +1,10 @@
+# Ambiente e segredos
+.venv/
+.env
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Sistema
+.DS_Store
